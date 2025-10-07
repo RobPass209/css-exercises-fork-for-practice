@@ -1,1 +1,17 @@
+.number {
+    background-color: rgb(202, 27, 115);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+#divone {
+    color: blue;
+    font-size: 36px;
+}
+.three {
+    font-size: 24px;
+}
+#divtwo {
+    background-color: rgb(98, 190, 98);
+    font-size: 24px;
+    font-weight: bold;
+}
 /* Add CSS Styling */
